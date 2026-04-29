@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in the Birmingham Metro Area, AL, US
 
-> Free BeamStation sample export with 1 rows and masked direct-contact fields.
+> Free BeamStation sample export with 2 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `795618` |
 | Location | Birmingham, AL |
 | Category | Restaurants |
-| Full dataset size | 3 records |
-| Free sample size | 1 records (33.33%) |
-| Last export | 2026-04-22T15:35:32.096428+00:00 |
+| Full dataset size | 23 records |
+| Free sample size | 2 records (8.7%) |
+| Last export | 2026-04-29T15:39:28.885534+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-birmingham-metro-area-al-us-sample-795618/releases/download/sample-latest/beamstation_795618_restaurants-us-birminghamal_SAMPLE_DIST.csv) |
 
 ## What is in this sample
