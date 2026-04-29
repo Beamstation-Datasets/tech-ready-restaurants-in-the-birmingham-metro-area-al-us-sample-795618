@@ -1,12 +1,12 @@
 {
-  "export_job_id": "537f5202-bdf6-4cb8-874e-fc19983ef1b8",
+  "export_job_id": "dc532482-d35a-4152-8d35-9c9eaa2ffa41",
   "id_short": 795618,
-  "published_at": "2026-04-23T07:10:59Z",
+  "published_at": "2026-04-29T19:37:11Z",
   "repo_name": "tech-ready-restaurants-in-the-birmingham-metro-area-al-us-sample-795618",
   "sample_asset_name": "beamstation_795618_restaurants-us-birminghamal_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/795618/beamstation_795618_restaurants-us-birminghamal_SAMPLE_DIST.csv",
-  "sample_records": 1,
-  "sample_sha256": "60f7b86a3db304083a65217925382236b1261dc588e89fef9798fdc865d06aa9",
-  "sample_size_bytes": 20199,
-  "total_records": 3
+  "sample_records": 2,
+  "sample_sha256": "327045c5b34db7ad301dd23ff93349f1ef938c4c90241556c5bcecd7617c2dca",
+  "sample_size_bytes": 23821,
+  "total_records": 23
 }
